@@ -6,6 +6,10 @@
         <tr>
         </tr>
 	<input type id="name"/>
+	<input type id="name"/>
+	<input type id="name"/>
+	<input type id="name"/>
+	<input type id="name"/>
     </body>
 </html>
 
